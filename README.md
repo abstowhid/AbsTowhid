@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Towhid
 #### web development
-![web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am still learning web devleopment with my best.
 
