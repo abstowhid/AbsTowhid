@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Towhid
-#### j. web developer
+#### j. web developer(ongoing)
 
 
 I am still learning web devleopment with my best.
 
 Skills: REACT / JS / HTML / CSS
 
-- ⚡ Fun fact: i play with bugs  
+- ⚡ Fun fact: i play with bugs  😌
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbsTowhid)  
