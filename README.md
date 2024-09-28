@@ -4,7 +4,7 @@
 
 I am still learning web devleopment with my best.
 
-Skills: REACT / JS / HTML / CSS
+Skills:  JS / HTML / CSS
 
 - ⚡ Fun fact: i play with bugs  😌
 
