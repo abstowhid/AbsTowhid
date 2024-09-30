@@ -7,6 +7,7 @@ I am still learning web devleopment with my best.
 Skills:  JS / HTML / CSS
 
 - ⚡ Fun fact: i play with bugs  😌
+               But sometimes they play with me😔
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbsTowhid)  
