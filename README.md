@@ -9,8 +9,7 @@ Skills:  JS / HTML / CSS
 - ⚡ Fun fact: i play with bugs  😌
                But sometimes they play with me😔
 
-## My badge
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="100" />
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbsTowhid)  
@@ -23,3 +22,5 @@ Skills:  JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbsTowhid)  
 
+## My badge
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="100" />
