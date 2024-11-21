@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Towhid
-#### j. web developer(ongoing)
+#### devloper(...)
 
 
 I am still learning web devleopment with my best.
